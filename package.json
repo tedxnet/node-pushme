@@ -1,6 +1,6 @@
 {
-  "name": "@tedxnet/pushme",
-  "version": "0.0.0",
+  "name": "pushmepro",
+  "version": "1.0.0",
   "description": "PushMe API for Node.js",
   "main": "pushme.js",
   "directories": {
